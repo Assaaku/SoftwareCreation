@@ -6,7 +6,7 @@ public class lab01 {
     public static void main(String[] args){
         int intValue = 0;
         for(int i =0; i<10; i++){
-            print("HeyHelloJimbo" + intValue);
+            print("HeyHello IM BAYRAAAAAAAAAA" + intValue);
         }
     }
     
