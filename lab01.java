@@ -7,6 +7,7 @@ public class lab01 {
         int intValue = 0;
         for(int i =0; i<10; i++){
             print("HeyHello IM BAYRAAAAAAAAAA" + intValue);
+            print("HeyHello IM BAYRAAAAAAAAAA" + intValue);
         }
     }
     
